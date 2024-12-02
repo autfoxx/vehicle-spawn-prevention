@@ -3,4 +3,4 @@ This script is a standalone script (works with every FiveM framework). This scri
 
 
 
-Preview Video: https://github.com/autfoxx/vehicle-spawn-prevention 
+Preview Video: https://www.youtube.com/watch?v=qaC2cSgMtms
